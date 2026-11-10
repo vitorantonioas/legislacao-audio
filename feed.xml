@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Legislação em Áudio</title>
+    <link>https://vitorantonioas.github.io/legislacao-audio</link>
+    <description>Meu podcast particular de legislação.</description>
+    <language>pt-br</language>
+    <itunes:author>Vitor</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>001 - LRP Título I, Cap. I - Das Atribuições</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/001%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20I%20-%20Das%20Atribui%C3%A7%C3%B5es.mp3" length="878256" type="audio/mpeg"/>
+      <guid isPermaLink="false">001 - LRP Título I, Cap. I - Das Atribuições.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>002 - LRP Título I, Cap. II - Da Escrituração</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/002%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20II%20-%20Da%20Escritura%C3%A7%C3%A3o.mp3" length="948528" type="audio/mpeg"/>
+      <guid isPermaLink="false">002 - LRP Título I, Cap. II - Da Escrituração.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>003 - LRP Título I, Cap. III - Da Ordem do Serviço</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/003%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20III%20-%20Da%20Ordem%20do%20Servi%C3%A7o.mp3" length="1452384" type="audio/mpeg"/>
+      <guid isPermaLink="false">003 - LRP Título I, Cap. III - Da Ordem do Serviço.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>004 - LRP Título I, Cap. IV - Da Publicidade</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/004%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20IV%20-%20Da%20Publicidade.mp3" length="2328624" type="audio/mpeg"/>
+      <guid isPermaLink="false">004 - LRP Título I, Cap. IV - Da Publicidade.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 16:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>005 - LRP Título I, Cap. V - Da Conservação</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/005%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20V%20-%20Da%20Conserva%C3%A7%C3%A3o.mp3" length="545472" type="audio/mpeg"/>
+      <guid isPermaLink="false">005 - LRP Título I, Cap. V - Da Conservação.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 17:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>006 - LRP Título I, Cap. VI - Da Responsabilidade</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/006%20-%20LRP%20T%C3%ADtulo%20I%2C%20Cap.%20VI%20-%20Da%20Responsabilidade.mp3" length="231264" type="audio/mpeg"/>
+      <guid isPermaLink="false">006 - LRP Título I, Cap. VI - Da Responsabilidade.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 18:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>007 - LRP Título II, Cap. I - Disposições Gerais</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/007%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20I%20-%20Disposi%C3%A7%C3%B5es%20Gerais.mp3" length="2476368" type="audio/mpeg"/>
+      <guid isPermaLink="false">007 - LRP Título II, Cap. I - Disposições Gerais.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 19:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>008 - LRP Título II, Cap. II - Da Escrituração e Ordem de Serviço</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/008%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20II%20-%20Da%20Escritura%C3%A7%C3%A3o%20e%20Ordem%20de%20Servi%C3%A7o.mp3" length="1817856" type="audio/mpeg"/>
+      <guid isPermaLink="false">008 - LRP Título II, Cap. II - Da Escrituração e Ordem de Serviço.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 20:00:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>009 - LRP Título II, Cap. III - Das Penalidades</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/009%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20III%20-%20Das%20Penalidades.mp3" length="1403568" type="audio/mpeg"/>
+      <guid isPermaLink="false">009 - LRP Título II, Cap. III - Das Penalidades.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 21:00:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>010 - LRP Título II, Cap. IV - Do Nascimento</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/010%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20IV%20-%20Do%20Nascimento.mp3" length="6571440" type="audio/mpeg"/>
+      <guid isPermaLink="false">010 - LRP Título II, Cap. IV - Do Nascimento.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 22:00:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>011 - LRP Título II, Cap. V - Da Habilitação para o Casamento</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/011%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20V%20-%20Da%20Habilita%C3%A7%C3%A3o%20para%20o%20Casamento.mp3" length="1405152" type="audio/mpeg"/>
+      <guid isPermaLink="false">011 - LRP Título II, Cap. V - Da Habilitação para o Casamento.mp3</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>012 - LRP Título II, Cap. VI - Do Casamento</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/012%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20VI%20-%20Do%20Casamento.mp3" length="1335168" type="audio/mpeg"/>
+      <guid isPermaLink="false">012 - LRP Título II, Cap. VI - Do Casamento.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>013 - LRP Título II, Cap. VII - Do Registro do Casamento Religioso para Efeitos Civis</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/013%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20VII%20-%20Do%20Registro%20do%20Casamento%20Religioso%20para%20Efeitos%20Civis.mp3" length="982512" type="audio/mpeg"/>
+      <guid isPermaLink="false">013 - LRP Título II, Cap. VII - Do Registro do Casamento Religioso para Efeitos Civis.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 01:00:00 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>014 - LRP Título II, Cap. VIII - Do Casamento em Iminente Risco de Vida</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/014%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20VIII%20-%20Do%20Casamento%20em%20Iminente%20Risco%20de%20Vida.mp3" length="530928" type="audio/mpeg"/>
+      <guid isPermaLink="false">014 - LRP Título II, Cap. VIII - Do Casamento em Iminente Risco de Vida.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 02:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>015 - LRP Título II, Cap. IX - Do Óbito</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/015%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20IX%20-%20Do%20%C3%93bito.mp3" length="2986128" type="audio/mpeg"/>
+      <guid isPermaLink="false">015 - LRP Título II, Cap. IX - Do Óbito.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>016 - LRP Título II, Cap. X - Da Emancipação, Interdição e Ausência</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/016%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20X%20-%20Da%20Emancipa%C3%A7%C3%A3o%2C%20Interdi%C3%A7%C3%A3o%20e%20Aus%C3%AAncia.mp3" length="2248992" type="audio/mpeg"/>
+      <guid isPermaLink="false">016 - LRP Título II, Cap. X - Da Emancipação, Interdição e Ausência.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 04:00:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>017 - LRP Título II, Cap. XI - Da Legitimação Adotiva</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/017%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20XI%20-%20Da%20Legitima%C3%A7%C3%A3o%20Adotiva.mp3" length="414432" type="audio/mpeg"/>
+      <guid isPermaLink="false">017 - LRP Título II, Cap. XI - Da Legitimação Adotiva.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 05:00:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>018 - LRP Título II, Cap. XII - Da Averbação</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/018%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20XII%20-%20Da%20Averba%C3%A7%C3%A3o.mp3" length="1724400" type="audio/mpeg"/>
+      <guid isPermaLink="false">018 - LRP Título II, Cap. XII - Da Averbação.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 06:00:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>019 - LRP Título II, Cap. XIII - Das Anotações</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/019%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20XIII%20-%20Das%20Anota%C3%A7%C3%B5es.mp3" length="623664" type="audio/mpeg"/>
+      <guid isPermaLink="false">019 - LRP Título II, Cap. XIII - Das Anotações.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 07:00:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>020 - LRP Título II, Cap. XIV - Das Retificações, Restaurações e Suprimentos</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/020%20-%20LRP%20T%C3%ADtulo%20II%2C%20Cap.%20XIV%20-%20Das%20Retifica%C3%A7%C3%B5es%2C%20Restaura%C3%A7%C3%B5es%20e%20Suprimentos.mp3" length="1515888" type="audio/mpeg"/>
+      <guid isPermaLink="false">020 - LRP Título II, Cap. XIV - Das Retificações, Restaurações e Suprimentos.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 08:00:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>021 - LRP Título III, Cap. I - Da Escrituração</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/021%20-%20LRP%20T%C3%ADtulo%20III%2C%20Cap.%20I%20-%20Da%20Escritura%C3%A7%C3%A3o.mp3" length="1078272" type="audio/mpeg"/>
+      <guid isPermaLink="false">021 - LRP Título III, Cap. I - Da Escrituração.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 +0000</pubDate>
+      <itunes:episode>21</itunes:episode>
+    </item>
+    <item>
+      <title>022 - LRP Título III, Cap. II - Da Pessoa Jurídica</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/022%20-%20LRP%20T%C3%ADtulo%20III%2C%20Cap.%20II%20-%20Da%20Pessoa%20Jur%C3%ADdica.mp3" length="859392" type="audio/mpeg"/>
+      <guid isPermaLink="false">022 - LRP Título III, Cap. II - Da Pessoa Jurídica.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>023 - LRP Título III, Cap. III - Do Registro de Jornais, Oficinas Impressoras, Empresas de Radiodifusão e Agências de Notícias</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/023%20-%20LRP%20T%C3%ADtulo%20III%2C%20Cap.%20III%20-%20Do%20Registro%20de%20Jornais%2C%20Oficinas%20Impressoras%2C%20Empresas%20de%20Radiodifus%C3%A3o%20e%20Ag%C3%AAncias%20de%20Not%C3%ADcias.mp3" length="1600560" type="audio/mpeg"/>
+      <guid isPermaLink="false">023 - LRP Título III, Cap. III - Do Registro de Jornais, Oficinas Impressoras, Empresas de Radiodifusão e Agências de Notícias.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 11:00:00 +0000</pubDate>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>024 - LRP Título IV, Cap. I - Das Atribuições</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/024%20-%20LRP%20T%C3%ADtulo%20IV%2C%20Cap.%20I%20-%20Das%20Atribui%C3%A7%C3%B5es.mp3" length="2605968" type="audio/mpeg"/>
+      <guid isPermaLink="false">024 - LRP Título IV, Cap. I - Das Atribuições.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>025 - LRP Título IV, Cap. II - Da Escrituração</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/025%20-%20LRP%20T%C3%ADtulo%20IV%2C%20Cap.%20II%20-%20Da%20Escritura%C3%A7%C3%A3o.mp3" length="1943856" type="audio/mpeg"/>
+      <guid isPermaLink="false">025 - LRP Título IV, Cap. II - Da Escrituração.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 13:00:00 +0000</pubDate>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>026 - LRP Título IV, Cap. III - Da Transcrição e da Averbação</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/026%20-%20LRP%20T%C3%ADtulo%20IV%2C%20Cap.%20III%20-%20Da%20Transcri%C3%A7%C3%A3o%20e%20da%20Averba%C3%A7%C3%A3o.mp3" length="791424" type="audio/mpeg"/>
+      <guid isPermaLink="false">026 - LRP Título IV, Cap. III - Da Transcrição e da Averbação.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 14:00:00 +0000</pubDate>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>027 - LRP Título IV, Cap. IV - Da Ordem do Serviço</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/027%20-%20LRP%20T%C3%ADtulo%20IV%2C%20Cap.%20IV%20-%20Da%20Ordem%20do%20Servi%C3%A7o.mp3" length="3109968" type="audio/mpeg"/>
+      <guid isPermaLink="false">027 - LRP Título IV, Cap. IV - Da Ordem do Serviço.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 15:00:00 +0000</pubDate>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>028 - LRP Título IV, Cap. V - Do Cancelamento</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/028%20-%20LRP%20T%C3%ADtulo%20IV%2C%20Cap.%20V%20-%20Do%20Cancelamento.mp3" length="393552" type="audio/mpeg"/>
+      <guid isPermaLink="false">028 - LRP Título IV, Cap. V - Do Cancelamento.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 16:00:00 +0000</pubDate>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>029 - LRP Título V, Cap. I - Das Atribuições</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/029%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20I%20-%20Das%20Atribui%C3%A7%C3%B5es.mp3" length="5466672" type="audio/mpeg"/>
+      <guid isPermaLink="false">029 - LRP Título V, Cap. I - Das Atribuições.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 +0000</pubDate>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>030 - LRP Título V, Cap. II - Da Escrituração</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/030%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20II%20-%20Da%20Escritura%C3%A7%C3%A3o.mp3" length="5709456" type="audio/mpeg"/>
+      <guid isPermaLink="false">030 - LRP Título V, Cap. II - Da Escrituração.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 18:00:00 +0000</pubDate>
+      <itunes:episode>30</itunes:episode>
+    </item>
+    <item>
+      <title>031 - LRP Título V, Cap. III - Do Processo do Registro</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/031%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20III%20-%20Do%20Processo%20do%20Registro.mp3" length="13078080" type="audio/mpeg"/>
+      <guid isPermaLink="false">031 - LRP Título V, Cap. III - Do Processo do Registro.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 19:00:00 +0000</pubDate>
+      <itunes:episode>31</itunes:episode>
+    </item>
+    <item>
+      <title>032 - LRP Título V, Cap. IV - Das Pessoas</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/032%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20IV%20-%20Das%20Pessoas.mp3" length="683280" type="audio/mpeg"/>
+      <guid isPermaLink="false">032 - LRP Título V, Cap. IV - Das Pessoas.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 20:00:00 +0000</pubDate>
+      <itunes:episode>32</itunes:episode>
+    </item>
+    <item>
+      <title>033 - LRP Título V, Cap. V - Dos Títulos</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/033%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20V%20-%20Dos%20T%C3%ADtulos.mp3" length="2135808" type="audio/mpeg"/>
+      <guid isPermaLink="false">033 - LRP Título V, Cap. V - Dos Títulos.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 21:00:00 +0000</pubDate>
+      <itunes:episode>33</itunes:episode>
+    </item>
+    <item>
+      <title>034 - LRP Título V, Cap. VI - Da Matrícula</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/034%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20VI%20-%20Da%20Matr%C3%ADcula.mp3" length="1851120" type="audio/mpeg"/>
+      <guid isPermaLink="false">034 - LRP Título V, Cap. VI - Da Matrícula.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 22:00:00 +0000</pubDate>
+      <itunes:episode>34</itunes:episode>
+    </item>
+    <item>
+      <title>035 - LRP Título V, Cap. VII - Do Registro</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/035%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20VII%20-%20Do%20Registro.mp3" length="1808064" type="audio/mpeg"/>
+      <guid isPermaLink="false">035 - LRP Título V, Cap. VII - Do Registro.mp3</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0000</pubDate>
+      <itunes:episode>35</itunes:episode>
+    </item>
+    <item>
+      <title>036 - LRP Título V, Cap. VIII - Da Averbação e do Cancelamento</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/036%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20VIII%20-%20Da%20Averba%C3%A7%C3%A3o%20e%20do%20Cancelamento.mp3" length="3017952" type="audio/mpeg"/>
+      <guid isPermaLink="false">036 - LRP Título V, Cap. VIII - Da Averbação e do Cancelamento.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <itunes:episode>36</itunes:episode>
+    </item>
+    <item>
+      <title>037 - LRP Título V, Cap. IX - Do Bem de Família</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/037%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20IX%20-%20Do%20Bem%20de%20Fam%C3%ADlia.mp3" length="1040256" type="audio/mpeg"/>
+      <guid isPermaLink="false">037 - LRP Título V, Cap. IX - Do Bem de Família.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 01:00:00 +0000</pubDate>
+      <itunes:episode>37</itunes:episode>
+    </item>
+    <item>
+      <title>038 - LRP Título V, Cap. X - Da Remição do Imóvel Hipotecado</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/038%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20X%20-%20Da%20Remi%C3%A7%C3%A3o%20do%20Im%C3%B3vel%20Hipotecado.mp3" length="1168848" type="audio/mpeg"/>
+      <guid isPermaLink="false">038 - LRP Título V, Cap. X - Da Remição do Imóvel Hipotecado.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 02:00:00 +0000</pubDate>
+      <itunes:episode>38</itunes:episode>
+    </item>
+    <item>
+      <title>039 - LRP Título V, Cap. XI - Do Registro Torrens</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/039%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20XI%20-%20Do%20Registro%20Torrens.mp3" length="1655856" type="audio/mpeg"/>
+      <guid isPermaLink="false">039 - LRP Título V, Cap. XI - Do Registro Torrens.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <itunes:episode>39</itunes:episode>
+    </item>
+    <item>
+      <title>040 - LRP Título V, Cap. XII - Do registro da regularização fundiária urbana</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/040%20-%20LRP%20T%C3%ADtulo%20V%2C%20Cap.%20XII%20-%20Do%20registro%20da%20regulariza%C3%A7%C3%A3o%20fundi%C3%A1ria%20urbana.mp3" length="245808" type="audio/mpeg"/>
+      <guid isPermaLink="false">040 - LRP Título V, Cap. XII - Do registro da regularização fundiária urbana.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 04:00:00 +0000</pubDate>
+      <itunes:episode>40</itunes:episode>
+    </item>
+    <item>
+      <title>041 - LRP Título VI - Das Disposições Finais e Transitórias</title>
+      <enclosure url="https://vitorantonioas.github.io/legislacao-audio/audios/041%20-%20LRP%20T%C3%ADtulo%20VI%20-%20Das%20Disposi%C3%A7%C3%B5es%20Finais%20e%20Transit%C3%B3rias.mp3" length="3022272" type="audio/mpeg"/>
+      <guid isPermaLink="false">041 - LRP Título VI - Das Disposições Finais e Transitórias.mp3</guid>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 +0000</pubDate>
+      <itunes:episode>41</itunes:episode>
+    </item>
+  </channel>
+</rss>
